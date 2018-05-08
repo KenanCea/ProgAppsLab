@@ -357,7 +357,9 @@ public class Solutions
 			return str;
 		}
 	}
+	System.out.println("------------------------------------");
         System.out.println("Thank you for using our program! :) ");
+	System.out.println("------------------------------------");
 
     
 }
